@@ -1,0 +1,15 @@
+{
+  "name": "mock-nykaa-server",
+  "version": "1.0.0",
+  "description": "mock nykaa server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "keywords": [],
+  "author": "Nitesh Samaniya",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
